@@ -13,5 +13,6 @@ What you need to know:
     .my-first-class {background:black;color:white;font-family:MyCoolFont;font-size:1.5em;}
     .my-first-class {background:black;color:white;font-family:MyCoolFont;font-size:1.5em;}
 2. The PHP is just:
+    include "class-tester.php";
     test_css("my-file-name.css");
 3. And Tada! You can see your class style applied to a simple cell with a simple text! Cool, isn't it?
